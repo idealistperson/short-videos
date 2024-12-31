@@ -17,3 +17,4 @@
 15. [Access Modifiers](./15-AccessModifiers/)
 16. [Quiz2](./16-Quiz2/)
 17. [File Open and Read in PHP](./17-FileOpenRead/)
+18. [File Write and Append in PHP](./18-FileWriteAppend/)
